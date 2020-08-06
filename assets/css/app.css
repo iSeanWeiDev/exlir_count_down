@@ -1,0 +1,17 @@
+/* This file is for your main application css. */
+.auth0-logo {
+  width: 200px;
+  height: 80px;
+  display: inline-block;
+  background-image: url(http://placehold.jp/ffffff/003366/200x80.png?text=Auth0%20meets%0AElixir);
+  background-repeat: no-repeat;
+  background-size: 200px;
+}
+
+.jumbotron .flip-clock-wrapper {
+  text-align: center;
+  position: relative;
+  width: auto;
+  margin-top: 8em;
+  display: inline-block;
+}

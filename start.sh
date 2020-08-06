@@ -1,0 +1,4 @@
+AUTH0_DOMAIN=dev-wtiansdo.us.auth0.com \
+AUTH0_CLIENT_ID=9O08mvSj2nVf4cawq6kT75iRiuwpJPF0 \
+AUTH0_CLIENT_SECRET=OhTroJHpGT8r6kTWLOpa3XOy3dDsUHwK0uzVX6SeGKoXbqbko1KeLKfsKC61DOa2 \
+mix phx.server
